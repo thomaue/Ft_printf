@@ -16,8 +16,7 @@ Le projet prend en charge les spécificateurs de format suivants dans un ordre l
 
 ###Exemple d'utilisation
 
-```c
-#include "ft_printf.h"
+```c#include "ft_printf.h"
 
 int main() {
     char c = 'A';
@@ -29,5 +28,4 @@ int main() {
     ft_printf("Chaine: %s\n", chaine);
 
     return 0;
-}
-```
+}```
