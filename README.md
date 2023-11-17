@@ -12,19 +12,19 @@ Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf
 
 ### Le projet prend en charge les spécificateurs de format suivants :
 
-%c: Affiche un caractère.
+* %c: Affiche un caractère.
 
-%d et %i: Affiche un entier signé en base 10.
+* %d et %i: Affiche un entier signé en base 10.
 
-%%: Affiche le caractère '%'.
+* %%: Affiche le caractère '%'.
 
-%x et %X: Affiche un entier non signé en base 16 (minuscules/majuscules).
+* %x et %X: Affiche un entier non signé en base 16 (minuscules/majuscules).
 
-%p: Affiche un pointeur.
+* %p: Affiche un pointeur.
 
-%u: Affiche un entier non signé en base 10.
+* %u: Affiche un entier non signé en base 10.
 
-%s: Affiche une chaîne de caractères.
+* %s: Affiche une chaîne de caractères.
 
 ---
 
