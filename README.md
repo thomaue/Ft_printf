@@ -1,5 +1,7 @@
 # Projet Printf
 
+> Because ft_putnbr() and ft_putstr() aren’t enough
+
 
 Ce projet vise à recréer le fonctionnement de la fonction printf en langage C. La fonction printf est largement utilisée pour afficher des informations formatées dans la console.
 
