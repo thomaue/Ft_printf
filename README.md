@@ -5,10 +5,12 @@ Ce projet vise à recréer le fonctionnement de la fonction printf en langage C.
 
 Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf en implémentant divers spécificateurs de format.
 
+---
+
 ## Fonctionnalités
 
 
-* Le projet prend en charge les spécificateurs de format suivants * :
+### Le projet prend en charge les spécificateurs de format suivants :
 
 %c: Affiche un caractère.
 
@@ -26,7 +28,7 @@ Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf
 
 ---
 
-### Exemple d'utilisation
+## Exemple d'utilisation
 
 ```c
 #include "ft_printf.h"
