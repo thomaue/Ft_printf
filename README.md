@@ -8,7 +8,7 @@ Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf
 ## Fonctionnalités
 
 
-_ Le projet prend en charge les spécificateurs de format suivants : _
+* Le projet prend en charge les spécificateurs de format suivants :
 
 %c: Affiche un caractère.
 
