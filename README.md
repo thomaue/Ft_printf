@@ -1,14 +1,14 @@
-#Projet Printf
+# Projet Printf
 
 
 Ce projet vise à recréer le fonctionnement de la fonction printf en langage C. La fonction printf est largement utilisée pour afficher des informations formatées dans la console.
 
 Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf en implémentant divers spécificateurs de format.
 
-##Fonctionnalités
+## Fonctionnalités
 
 
-Le projet prend en charge les spécificateurs de format suivants dans un ordre logique :
+_ Le projet prend en charge les spécificateurs de format suivants : _
 
 %c: Affiche un caractère.
 
@@ -26,7 +26,7 @@ Le projet prend en charge les spécificateurs de format suivants dans un ordre l
 
 ---
 
-###Exemple d'utilisation
+### Exemple d'utilisation
 
 ```c
 #include "ft_printf.h"
