@@ -3,9 +3,9 @@
 > Because ft_putnbr() and ft_putstr() aren’t enough
 
 
-Ce projet vise à recréer le fonctionnement de la fonction printf en langage C. La fonction printf est largement utilisée pour afficher des informations formatées dans la console.
+>Ce projet vise à recréer le fonctionnement de la fonction printf en langage C. La fonction printf est largement >utilisée pour afficher des informations formatées dans la console.
 
-Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf en implémentant divers spécificateurs de format.
+>Ce projet vous permettra de mieux comprendre le fonctionnement interne de printf en implémentant divers >spécificateurs de format.
 
 ---
 
